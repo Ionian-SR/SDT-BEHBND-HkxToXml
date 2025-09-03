@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>c2021.behbnd.dcx</filename>
+  <compression>DCX_KRAK</compression>
+  <version>07D7R6</version>
+  <format>IDs, Names1, Names2, Compression</format>
+  <bigendian>False</bigendian>
+  <bitbigendian>False</bitbigendian>
+  <unicode>True</unicode>
+  <extended>0x04</extended>
+  <unk04>False</unk04>
+  <unk05>False</unk05>
+  <root>N:\NTC\data\Target\INTERROOT_win64\action\c2021\Export\Behaviors</root>
+  <files>
+    <file>
+      <flags>Flag1</flags>
+      <id>7000200</id>
+      <path>c9996.hkt</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>7000500</id>
+      <path>c9996.hkx</path>
+    </file>
+  </files>
+</bnd4>
